@@ -1,0 +1,6 @@
+@EcommerceFlow.InventoryService.API_HostAddress = http://localhost:5039
+
+GET {{EcommerceFlow.InventoryService.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
